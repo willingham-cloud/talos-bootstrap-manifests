@@ -1,0 +1,1 @@
+# talos-bootstrap-manifests
